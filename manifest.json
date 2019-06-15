@@ -1,0 +1,10 @@
+{
+  "name": "Zen New Tab",
+  "description": "Blank New Tab. Dark. With title.",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/ryanbuening/ZenNewTab",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
